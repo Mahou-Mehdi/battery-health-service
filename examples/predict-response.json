@@ -1,0 +1,11 @@
+{
+  "battery_id": "SYN-002",
+  "origin_cycle": 24,
+  "target_cycle": 34,
+  "predicted_soh": 0.9670905525165114,
+  "predicted_capacity_ah": 3.2457773616536016,
+  "persistence_soh": 0.9746228159281999,
+  "linear_trend_soh": 0.9634921945742521,
+  "model_source": "synthetic_demo",
+  "note": "Experimental forecast; synthetic demo models are not validated on real batteries."
+}

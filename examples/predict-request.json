@@ -1,0 +1,229 @@
+{
+  "readings": [
+    {
+      "battery_id": "SYN-002",
+      "cycle": 0,
+      "capacity_ah": 3.3418030233711007,
+      "nominal_capacity_ah": 3.3562290037966074,
+      "temperature_c": 29.999090586076132,
+      "resistance_mohm": 42.3593760105782,
+      "charge_rate_c": 1.5611908100366318
+    },
+    {
+      "battery_id": "SYN-002",
+      "cycle": 1,
+      "capacity_ah": 3.3460370165074442,
+      "nominal_capacity_ah": 3.3562290037966074,
+      "temperature_c": 28.69665082847613,
+      "resistance_mohm": 42.93134213554843,
+      "charge_rate_c": 1.5413353446932436
+    },
+    {
+      "battery_id": "SYN-002",
+      "cycle": 2,
+      "capacity_ah": 3.3416461691041706,
+      "nominal_capacity_ah": 3.3562290037966074,
+      "temperature_c": 29.69134881279616,
+      "resistance_mohm": 42.7509844968539,
+      "charge_rate_c": 1.5411461878055848
+    },
+    {
+      "battery_id": "SYN-002",
+      "cycle": 3,
+      "capacity_ah": 3.337623441176898,
+      "nominal_capacity_ah": 3.3562290037966074,
+      "temperature_c": 31.10244808090482,
+      "resistance_mohm": 43.205598726723274,
+      "charge_rate_c": 1.5602786064156795
+    },
+    {
+      "battery_id": "SYN-002",
+      "cycle": 4,
+      "capacity_ah": 3.337196093332572,
+      "nominal_capacity_ah": 3.3562290037966074,
+      "temperature_c": 30.258768168072457,
+      "resistance_mohm": 43.01008695238367,
+      "charge_rate_c": 1.5974906712388537
+    },
+    {
+      "battery_id": "SYN-002",
+      "cycle": 5,
+      "capacity_ah": 3.338049574481846,
+      "nominal_capacity_ah": 3.3562290037966074,
+      "temperature_c": 30.59726310844286,
+      "resistance_mohm": 42.74967986190946,
+      "charge_rate_c": 1.583568985159518
+    },
+    {
+      "battery_id": "SYN-002",
+      "cycle": 6,
+      "capacity_ah": 3.327531648225595,
+      "nominal_capacity_ah": 3.3562290037966074,
+      "temperature_c": 30.4671273774741,
+      "resistance_mohm": 43.10005264949372,
+      "charge_rate_c": 1.60477261544861
+    },
+    {
+      "battery_id": "SYN-002",
+      "cycle": 7,
+      "capacity_ah": 3.325906959947167,
+      "nominal_capacity_ah": 3.3562290037966074,
+      "temperature_c": 30.03300243645623,
+      "resistance_mohm": 42.96282088680358,
+      "charge_rate_c": 1.592053425607562
+    },
+    {
+      "battery_id": "SYN-002",
+      "cycle": 8,
+      "capacity_ah": 3.3282595844475305,
+      "nominal_capacity_ah": 3.3562290037966074,
+      "temperature_c": 30.733163766375462,
+      "resistance_mohm": 43.02809015640761,
+      "charge_rate_c": 1.596522469182847
+    },
+    {
+      "battery_id": "SYN-002",
+      "cycle": 9,
+      "capacity_ah": 3.3283601561075367,
+      "nominal_capacity_ah": 3.3562290037966074,
+      "temperature_c": 30.328745991750118,
+      "resistance_mohm": 43.41052495886338,
+      "charge_rate_c": 1.609610248960203
+    },
+    {
+      "battery_id": "SYN-002",
+      "cycle": 10,
+      "capacity_ah": 3.3080480222017474,
+      "nominal_capacity_ah": 3.3562290037966074,
+      "temperature_c": 30.666152837729587,
+      "resistance_mohm": 43.41716080438005,
+      "charge_rate_c": 1.6311833911502112
+    },
+    {
+      "battery_id": "SYN-002",
+      "cycle": 11,
+      "capacity_ah": 3.315838695138959,
+      "nominal_capacity_ah": 3.3562290037966074,
+      "temperature_c": 32.11157306875108,
+      "resistance_mohm": 43.62013923604166,
+      "charge_rate_c": 1.6298898388872967
+    },
+    {
+      "battery_id": "SYN-002",
+      "cycle": 12,
+      "capacity_ah": 3.3039384375428615,
+      "nominal_capacity_ah": 3.3562290037966074,
+      "temperature_c": 31.56508575503268,
+      "resistance_mohm": 43.635404514643575,
+      "charge_rate_c": 1.6015887212540336
+    },
+    {
+      "battery_id": "SYN-002",
+      "cycle": 13,
+      "capacity_ah": 3.3077672008089967,
+      "nominal_capacity_ah": 3.3562290037966074,
+      "temperature_c": 30.707844696785536,
+      "resistance_mohm": 43.2883342525926,
+      "charge_rate_c": 1.6542911073873001
+    },
+    {
+      "battery_id": "SYN-002",
+      "cycle": 14,
+      "capacity_ah": 3.3051861503277586,
+      "nominal_capacity_ah": 3.3562290037966074,
+      "temperature_c": 30.479023066586358,
+      "resistance_mohm": 43.717718129240886,
+      "charge_rate_c": 1.595814249516291
+    },
+    {
+      "battery_id": "SYN-002",
+      "cycle": 15,
+      "capacity_ah": 3.309310712150521,
+      "nominal_capacity_ah": 3.3562290037966074,
+      "temperature_c": 31.081870822593352,
+      "resistance_mohm": 43.804120928431026,
+      "charge_rate_c": 1.6550596683657555
+    },
+    {
+      "battery_id": "SYN-002",
+      "cycle": 16,
+      "capacity_ah": 3.3030727061799885,
+      "nominal_capacity_ah": 3.3562290037966074,
+      "temperature_c": 30.145770964226134,
+      "resistance_mohm": 43.980527564271156,
+      "charge_rate_c": 1.6493062241124374
+    },
+    {
+      "battery_id": "SYN-002",
+      "cycle": 17,
+      "capacity_ah": 3.3072366165837828,
+      "nominal_capacity_ah": 3.3562290037966074,
+      "temperature_c": 32.09852395220155,
+      "resistance_mohm": 43.811313414762154,
+      "charge_rate_c": 1.6230888541991813
+    },
+    {
+      "battery_id": "SYN-002",
+      "cycle": 18,
+      "capacity_ah": 3.289299571459091,
+      "nominal_capacity_ah": 3.3562290037966074,
+      "temperature_c": 32.034941734781945,
+      "resistance_mohm": 44.39070138267998,
+      "charge_rate_c": 1.6151048458049695
+    },
+    {
+      "battery_id": "SYN-002",
+      "cycle": 19,
+      "capacity_ah": 3.292053125012752,
+      "nominal_capacity_ah": 3.3562290037966074,
+      "temperature_c": 31.497100787617278,
+      "resistance_mohm": 44.15017196288481,
+      "charge_rate_c": 1.652208403758951
+    },
+    {
+      "battery_id": "SYN-002",
+      "cycle": 20,
+      "capacity_ah": 3.2786947439905822,
+      "nominal_capacity_ah": 3.3562290037966074,
+      "temperature_c": 32.532408375198706,
+      "resistance_mohm": 44.096342763951014,
+      "charge_rate_c": 1.6346015560714322
+    },
+    {
+      "battery_id": "SYN-002",
+      "cycle": 21,
+      "capacity_ah": 3.276602552500081,
+      "nominal_capacity_ah": 3.3562290037966074,
+      "temperature_c": 32.09728637696342,
+      "resistance_mohm": 44.1970728691393,
+      "charge_rate_c": 1.6419853614274054
+    },
+    {
+      "battery_id": "SYN-002",
+      "cycle": 22,
+      "capacity_ah": 3.274464412757884,
+      "nominal_capacity_ah": 3.3562290037966074,
+      "temperature_c": 31.46184583472962,
+      "resistance_mohm": 44.29940763025504,
+      "charge_rate_c": 1.627848712740966
+    },
+    {
+      "battery_id": "SYN-002",
+      "cycle": 23,
+      "capacity_ah": 3.2823580839105504,
+      "nominal_capacity_ah": 3.3562290037966074,
+      "temperature_c": 31.40970053433937,
+      "resistance_mohm": 44.4792242841857,
+      "charge_rate_c": 1.641581012915988
+    },
+    {
+      "battery_id": "SYN-002",
+      "cycle": 24,
+      "capacity_ah": 3.2710573625801467,
+      "nominal_capacity_ah": 3.3562290037966074,
+      "temperature_c": 31.639187515276795,
+      "resistance_mohm": 44.362588941355405,
+      "charge_rate_c": 1.6282108033890057
+    }
+  ]
+}
